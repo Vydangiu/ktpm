@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Bai1_Selenium_Suite">
+    <test name="Title And Login Tests">
+        <classes>
+            <class name="dtm.TitleTest"/>
+            <class name="dtm.LoginTest"/>
+        </classes>
+    </test>
+</suite>
